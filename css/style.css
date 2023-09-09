@@ -1,0 +1,38 @@
+body {
+    font-size: 11px;
+}
+
+.header {
+    background-color: b30808;
+    padding: 10px;
+    text-align: center;
+}
+
+.header h2 {
+    font-size: 18px;
+    text-align: center;
+    color: white;
+}
+
+.box-form {
+    margin-top: 30px;
+}
+
+.box {
+    background-color: white;
+    border: #999 solid 1px;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.box h2 {
+    font-size: 15px;
+    text-align: center;
+
+}
+
+.box-kwitansi {
+    border: #999 solid 1px;
+    text-align: center;
+    margin-bottom: 20px;
+}
